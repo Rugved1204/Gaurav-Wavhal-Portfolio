@@ -47,7 +47,7 @@ function Navbar() {
       </div>
 
       <button
-        className="md:hidden flex flex-col gap-1.5 w-7 z-50"
+        className="md:hidden flex flex-col gap-1.5 w-7 z-50 mr-16"
         onClick={() => setIsOpen(!isOpen)}
         aria-label="Toggle menu"
       >
